@@ -5,8 +5,8 @@ const mergeSort = require('./sorting/merge');
 const quickSort = require('./sorting/quick');
 // arr[] = [64, 25, 12, 22, 11]
 
-// let array = [6, 4, 3, 8, 1, 5, 2, 7]
-let array = [6, 4]
+let array = [6, 4, 3, 8, 1, 5, 2, 7]
+// let array = [6, 4]
 
 // console.log('----selection sort----');
 // selectionSort(array)
