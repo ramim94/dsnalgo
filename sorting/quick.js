@@ -1,3 +1,4 @@
+// need optimizations
 const {swap, merge} = require('./index')
 
 module.exports = function quickSort(arr){
